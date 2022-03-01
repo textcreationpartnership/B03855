@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a declaration. James R. As we cannot consider this invasion of our kingdoms, by the Prince of Orange, without horror ....</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03855</idno>
+            <idno type="STC">Wing J163</idno>
+            <idno type="STC">ESTC R226311</idno>
+            <idno type="EEBO-CITATION">52612184</idno>
+            <idno type="OCLC">ocm 52612184</idno>
+            <idno type="VID">179479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179479)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a declaration. James R. As we cannot consider this invasion of our kingdoms, by the Prince of Orange, without horror ....</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Mr. P. B. enginier, printer to the Kings most excellent Majesty, for his houshold, chapel, and colledge,</publisher>
+                  <pubPlace>Holy-Rood-House [i.e. Edinburgh] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Initial letter.</note>
+                  <note>Includes: A list of the foot and horse that are come with the Prince of Orange, as printed in Holland.</note>
+                  <note>Dated at end: Given at our court at Whithall the 6th. of November, 1688. And of our reign the fourth year.</note>
+                  <note>Imperfect: stained with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III --  King of England, 1650-1702.</term>
+               <term>Great Britain --  History --  Revolution of 1688 --  Sources.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:179479:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </head>
+            <head type="sub">A DECLARATION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S We cannot conſider this Invaſion of Our Kingdoms, by the Prince of <hi>Orange,</hi> without horror, for ſo unchriſtian and unnatural an Undertaking, in a Perſon ſo nearly Related to Us; ſo it is a Matter of the greateſt trouble and concern to Us, to reflect upon the many Miſchiefs and Ca<g ref="char:EOLhyphen"/>lamities which an Army of Forreigners and Rebels muſt unavoidably bring upon Our People. It is but too evident by a late Declaration Publiſhed by him; that notwithſtanding the many ſpeci<g ref="char:EOLhyphen"/>ous and plauſible Pretences it carries, his Deſigns in the bottom do tend to nothing leſs than an abſolute Uſurping of Our Crown and Royal Authority; as may fully appear by his aſſuming to himſelf in the ſaid Declaration the Regal Stile: Requiring the Peers of the Realm, both Spiri<g ref="char:EOLhyphen"/>tual and Temporal, and all other Perſons of all Degrees to obey and aſſiſt him in the Execution of his Deſigns, a Prerogative inſeparable from the Imperial Crown of this Realm; and for a more undeniable Proof of his immoderate Ambition, and which nothing can ſatisfy but the immediate Poſſeſſion of the Crown it ſelf, he calls in Queſtion the Legitimacy of the <hi>Prince</hi> of WALES, Our Son and Heir Apparent, Tho' by the Providence of God, there were preſent at His Birth ſo many Witneſſes, of unqueſtionable Credit, as it ſeemed to have been the particular Care of Heaven on purpoſe to diſapoint ſo wicked and unparallel'd Attempt.</p>
+            <p>And in Order to the Effecting his Ambitious Deſigns, he ſeems deſireous in the Cloſe of his Declaration, to Submit all to the Determination of a free Parliament, hoping thereby to ingratiate himſelf with Our People; Though nothing can be more Evident, than that a Parliament cannot be Free, ſo long as there is an Army of Forreigners in the Heart of Our King<g ref="char:EOLhyphen"/>doms, So that in truth he himſelf is the Sole Obſtructer of ſuch a Free Parliament: We being fully reſolved as we have al<g ref="char:EOLhyphen"/>ready Declared, ſo ſoon as (by the Bleſſing of GOD). Our Kingdoms ſhall be Delivered from this Invaſion, to call a Parlia<g ref="char:EOLhyphen"/>ment, which can no longer be liable to the leaſt Objection of not being Freely Choſen, ſince We have actually reſtored all the Burroughs and Corporations of this Our Kingdom, to their Ancient Rights and Priviledgs, and in which We ſhall be ready, not only to receive and redreſs, all the juſt Complaints and Grievances of Our good Subjects, but alſo to repeat and confirm the Aſſurance, We have already given to them, in Our ſeveral Declarations of Our Reſolution by Gods Bleſſing, to main<g ref="char:EOLhyphen"/>tain them in their Religion, their Liberties and Properties, and all other their juſt Rights and Priviledges whatſoever. Upon theſe Conſiderations, and the Obligations of their Duty and natural Allegiance, We can nowayes doubt, but that all Our Faithful and Loving Subjects will readily and heartily Concur and Joyn with Us in the entire Suppreſſion and repelling of thoſe Our Enemies and Rebellious Subjects, who have ſo Injuriouſly and Diſloyally invaded and diſturb'd the Peace and Tranquillity of theſe Our Kingdoms.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whithall,</hi> 
+                  <date>the 6th. of <hi>November,</hi> 1688. And of Our Reign the Fourth Year.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="lists_of_forces">
+            <head>A Liſt of the Foot and Horſe that are come with the Prince of <hi>Orange,</hi> as Printed in <hi>Holland.</hi>
+            </head>
+            <list>
+               <head>HORSE.</head>
+               <item>The Life Guard,</item>
+               <item>Regiment of Guards Commanded by <hi>Benting.</hi>
+               </item>
+               <item>VValdeck's <hi>Regim<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi>
+               </item>
+               <item>Naſſaw,</item>
+               <item>Mompellian,</item>
+               <item>Ginckel,</item>
+               <item>Count Vander Lip,</item>
+               <item>The Prince's Dragoons,</item>
+               <item>Marrewis Dragoons,</item>
+               <item>Sgravemoer,</item>
+               <item>Sapbroeck,</item>
+               <item>Fioddorp,</item>
+               <item>Seyde,</item>
+               <item>Oye,</item>
+               <item>Suyleſtein,</item>
+               <item>In all. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <item>Troopers, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Life-Guard, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Regiment of Guard <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Prince's Dragoons, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Marreuis Drago<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <hi>In all</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <head>FOOT.</head>
+               <item>Foot-Guards Commanded by <hi>C. So<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 25 Comp. <hi>20<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Mackay <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Comp.</item>
+               <item>Balfour, <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Comp.</item>
+               <item>Talmaſh <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Comp.</item>
+               <item>Regiment which was for<g ref="char:EOLhyphen"/>merly Belliſes, <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Comp.</item>
+               <item>Regiment which was for<g ref="char:EOLhyphen"/>merly Wachops, <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Comp.</item>
+               <item>Regiment which was the late Earl of Oſſori<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> Comp.</item>
+               <item>Barckevelt, <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> Comp.</item>
+               <item>Holſtein <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> Comp.</item>
+               <item>Wirtemberg, <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2</hi> Comp.</item>
+               <item>Hagendorn, <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> Comp.</item>
+               <item>Fagel <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> Comp.</item>
+               <item>Naſsaw <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> Comp.</item>
+               <item>Carelſon, <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Comp.</item>
+               <item>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ander, <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> Comp.</item>
+               <item>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> Comp.</item>
+               <item>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Comp.</item>
+               <item>In all <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Comp.</item>
+               <item>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a Comp. <hi>86<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Of Guards, <hi>2000</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>06<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+            </list>
+            <list>
+               <head>Liſt of <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </head>
+               <item>
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Wa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y-Boats, <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>0</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>incks, <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>0</hi>
+               </item>
+               <item>
+                  <hi>Fire-Ships, <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>0</hi>
+               </item>
+               <item>
+                  <hi>In all 635</hi>
+               </item>
+            </list>
+            <p>All theſe Troops (<gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <unclear>compleat</unclear>) <unclear>would</unclear>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+have amounted to this Number, but <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+as they are not they amount but to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Holy-Rood-Houſe <hi>Printed by Mr.</hi> P. B. <hi>Enginier, Printer to the Kings moſt Excellent Majeſty, for his Houſehold <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Colledge.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
